@@ -1,4 +1,4 @@
-//Copyright 2021 by Krayushkina
+//  Copyright 2021 by Krayushkina
 #include <string>
 #include "train.h"
 using std::cout;

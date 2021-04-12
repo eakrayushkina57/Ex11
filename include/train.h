@@ -5,7 +5,7 @@
 #include <iostream>
 class Cage {
     bool light;
-public:
+ public:
     Cage* next;
     Cage* prev;
     Cage() : light(false), next(nullptr), prev(nullptr) {}
@@ -16,7 +16,7 @@ public:
 class Train {
     Cage* first;
     Cage* last;
-public:
+ public:
     Train();
     void addCageInTrain();
     void printTrain();
