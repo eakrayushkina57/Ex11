@@ -1,4 +1,4 @@
-// Copyright 2021 Krayushkina
+//  Copyright 2021 Krayushkina
 #include <gtest/gtest.h>
 #include <string>
 #include "train.h"
